@@ -1,0 +1,74 @@
+.svn
+*~
+*.swp
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+.Trash
+
+# Npm
+*.log
+node_modules
+.node-gyp
+.babel.json
+.yarnrc
+
+# IDEs
+.idea
+.atom
+
+# Fish
+fish/fish_history
+fish/fishd.*
+
+# Misc
+.CFUserTextEncoding
+.docker
+.localized
+*.padl
+
+# User directories in MacOS
+Applications
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Sites
+
+code/
+.bash_sessions/
+.blockstack/
+.bundle/
+.config/
+.electron/
+.gem/
+.node-gyp/
+.now/
+.npm/
+.nvm/
+.opam/
+.rbenv/
+.vscode/
+
+# Sensitive data
+.bash_history
+.gitconfig.local
+.histfile
+.*.log
+.local
+.viminfo
+.zcompdump
+.ssh/
+.Trash/

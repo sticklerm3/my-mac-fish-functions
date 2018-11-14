@@ -72,3 +72,9 @@ code/
 .zcompdump
 .ssh/
 .Trash/
+
+emptytrash.fish
+md.fish
+fish_prompt.fish
+foxpro.fish
+sashimi-prompt.fish

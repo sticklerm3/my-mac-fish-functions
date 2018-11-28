@@ -5,6 +5,6 @@ function spotoff --description 'toggle spotlight indexing off'
   case Darwin
     sudo mdutil -a -i off
   case '*'
-    echo Mac OS X only command.
+    echo MacOS only command.
   end
 end

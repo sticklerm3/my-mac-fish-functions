@@ -1,6 +1,6 @@
 #!/usr/bin/env fish
 
-function --description 'toggles spotlight indexing on'
+function spoton --description 'toggles spotlight indexing on'
   switch (uname)
   case Darwin
     sudo mdutil -a -i on

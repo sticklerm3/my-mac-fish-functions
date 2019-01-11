@@ -56,11 +56,11 @@ function __update_node_packages
         end
     end
 
-    # set cmd (which yarn)
-    # if test $status -eq 0
-    #     printf "\n====[ yarn ]================================================\n"; and \
-    #     yarn global upgrade
-    # end
+     set cmd (which yarn)
+     if test $status -eq 0
+         printf "\n====[ yarn ]================================================\n"; and \
+         yarn global upgrade
+     end
     set -e cmd
     set -e os
 end
@@ -137,8 +137,8 @@ function sysupdater --description 'Update system software'
 			__macos_appstore
 			__macos_homebrew
 			__update_node_packages
-			# __update_gems
-			# __update_pip
+			__update_gems
+			__update_pip
 		case Linux
 			__debian_apt
 			__update_node_packages

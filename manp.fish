@@ -1,4 +1,4 @@
-!#/usr/local/fish
+!#/usr/bin/env fish
 
 # Opens man pages in Preview.app.
 function manp

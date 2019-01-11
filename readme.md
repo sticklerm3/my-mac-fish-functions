@@ -43,7 +43,7 @@ A wrapper to use the airport command to perform a scan.
 
 A wrapper to quickly update and upgrade homebrew. Command consists of:
 
-    brew -v update; brew -v upgrade; brew cask upgrade; brew cleanup; brew prune; brew doctor; brew cask doctor;
+    brew -v update; brew -v upgrade; brew cask upgrade; brew cleanup; brew doctor;
 
 ### dscleanup.fish
 
@@ -111,7 +111,7 @@ Basically just an abbreviation for `youtube-dl`.
 
 ### ytx.fish
 
-Another abbreciation for `youtube-dl` but with the `-x` argument to extract audio.
+Another abbreviation for `youtube-dl` but with the `-x` argument to extract audio.
 
 ---
 

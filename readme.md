@@ -15,6 +15,7 @@ For more information you can go [here](https://fishshell.com) to learn more abou
 - flushdns.fish
 - fucktrash.fish
 - fuckyou.fish
+- gi.fish
 - lscleanup.fish
 - manp.fish
 - shutitdown.fish

@@ -48,7 +48,7 @@ A wrapper to quickly update and upgrade homebrew. Command consists of:
 
 ### dscleanup.fish
 
-Recursievely delets .DS_Store files.
+Recursively delets .DS_Store files.
 
 ### fastbackup.fish
 
